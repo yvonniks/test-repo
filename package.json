@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yvonniks/test-repo/issues"
   },
-  "homepage": "https://github.com/yvonniks/test-repo"
+  "homepage": "https://github.com/yvonniks/test-repo",
+  "devDependencies": {
+    "express": "^4.5.1"
+  }
 }
